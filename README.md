@@ -35,7 +35,7 @@ cat /etc/hosts
 192.168.214.92 k8s-master   #(ip根据自身实际情况修改)
 192.168.214.97 k8s-node1    #(ip根据自身实际情况修改)
 192.168.214.98 k8s-node2    #(ip根据自身实际情况修改)
-
+https://s1.51cto.com/images/blog/201909/19/ecbc71fa6f6535d9762e01c590fd45ea.png?x-oss-process=image/watermark,size_16,text_QDUxQ1RP5Y2a5a6i,color_FFFFFF,t_100,g_se,x_10,y_10,shadow_90,type_ZmFuZ3poZW5naGVpdGk=
 kubeadm部署k8s集群以及dashboard页面
 
 1.6 配置国内yum源：
